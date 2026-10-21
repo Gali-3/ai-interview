@@ -1,0 +1,7 @@
+Candidate Resume
+
+Skills:
+Java, Python, SQL, OOP, Git
+
+Projects:
+Banking Transaction Analytics Dashboard using Power BI.
